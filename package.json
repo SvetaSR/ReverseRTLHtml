@@ -1,5 +1,5 @@
 {
-  "name": "reversehebrew",
+  "name": "reverse-rtl-html",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
