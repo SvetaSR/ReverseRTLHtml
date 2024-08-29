@@ -3,8 +3,11 @@ This is a simple script for going over HTML files and reversing text for RTL lan
 
 #### How to use for fixing Calibre books
 If you are using it to fix ePub files converted badly by Calibre, here's a quick tutorial:
+
 A. Convert your book as you usually would with Calibre.
+
 B. Once it's done, left-click the book and click on "Edit", or press "T" which is a shortcut.
+
 C. In the edit screen you'll see a left panel with all the files that are contained in the ePub file. Look for all of the HTML files. It should look like this:
 
 ![image](https://github.com/user-attachments/assets/a9b5de92-71cb-44c4-8f13-62d328a265f6)
